@@ -13,3 +13,9 @@ Mouth motion
    -  Face Image Motion Model https://github.com/tg-bomze/Face-Image-Motion-Model
 
      
+Install python3.7 and pip: 
+```
+   $> sudo dnf install python37
+   $> curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+   $> python3.7 get-pip.py
+```
